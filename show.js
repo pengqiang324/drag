@@ -4,6 +4,6 @@ function show(id){
 	oId.onmousedown = function(){
 		alert(2222);
 		document.write  = "<p>你好</p>";
-		console.log(1)
+		console.log(2);
 	};
 }
