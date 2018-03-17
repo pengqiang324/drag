@@ -3,5 +3,6 @@ function show(id){
 	var oIndex = 0;
 	oId.onmousedown = function(){
 		alert(1)
+		console.log('我在学习git github');
 	};
 }
