@@ -4,5 +4,6 @@ function show(id){
 	oId.onmousedown = function(){
 		alert(1)
 		console.log('我在学习git github');
+		document.write = "<p>你好</p>";
 	};
 }
